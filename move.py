@@ -20,7 +20,7 @@ def checkInput():
 		print(errorMsg)
 
 def move(num):
-	timeRange = num * 10
+	timeRange = num * 30
 
 	for i in range(timeRange):
 		print(i)
