@@ -20,6 +20,7 @@ git clone https://github.com/Winnie0609/stay-awake.git
 ```
 
 2. Open terminal and run the script
+  - add time you need (default is 3 minutes)
 ```
-python move.py
+python move.py 5
 ```
